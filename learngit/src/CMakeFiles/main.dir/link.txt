@@ -1,1 +1,1 @@
-/usr/bin/c++    -g -Wall -O2    CMakeFiles/main.dir/main.cpp.o  -o ../bin/main  -L/usr/local/lib -rdynamic 
+/usr/bin/c++    -g -Wall -O2    CMakeFiles/main.dir/main.cpp.o  -o ../bin/main -rdynamic -lconfig++ 
